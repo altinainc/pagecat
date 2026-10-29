@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://altinainc.github.io/pagecat/sitemap.xml
